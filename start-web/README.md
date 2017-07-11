@@ -26,5 +26,3 @@ Them dong moi ne
 
 Dong nua ne
 
-
-Limiting comparson
