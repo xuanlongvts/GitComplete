@@ -22,5 +22,3 @@ This is description for Contribute
 
 
 Them dong moi ne
-
-Them don gmoi nua
