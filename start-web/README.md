@@ -4,4 +4,6 @@
 
 ### Purpose
 
+## New Section
+
 ## How to Contribute
