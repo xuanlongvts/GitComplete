@@ -33,3 +33,6 @@ Dong nua ne (Branch: Master)
 2014 Git.Training
 
 Text for rebase
+
+
+Master: Text rebase.
