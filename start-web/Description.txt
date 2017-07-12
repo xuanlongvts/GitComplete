@@ -7,3 +7,5 @@ Auto merge test
 Master conflicting change brewing after
 
 Git stash demo
+
+Stashing untrack file and using pop
