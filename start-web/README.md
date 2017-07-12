@@ -14,18 +14,19 @@ This is description for Purpose
 
 ## Deployment
 
+This is description for Deployment
 
 ## How To Contribute
 
-Branch realwork: (update) This is description for Contribute
+This is description for Contribute
 
 Pleas fork this repository and then issue pull (Branch: Master)
 
-Branch realwork: (update) Them dong moi ne
+Them dong moi ne
 
 
 Dong nua ne (Branch: Master)
 
 ### Copyright
 
-Branch realwork: (update) 2014 Git.Training
+2014 Git.Training
