@@ -20,6 +20,7 @@ This is description for Deployment
 
 This is description for Contribute
 
+Pleas fork this repository and then issue pull
 
 Them dong moi ne
 
