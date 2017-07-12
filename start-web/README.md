@@ -31,3 +31,5 @@ Dong nua ne (Branch: Master)
 ### Copyright
 
 2014 Git.Training
+
+Text for rebase
