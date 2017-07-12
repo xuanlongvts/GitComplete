@@ -19,12 +19,12 @@ This is description for Purpose
 
 Branch realwork: (update) This is description for Contribute
 
-Pleas fork this repository and then issue pull
+Pleas fork this repository and then issue pull (Branch: Master)
 
 Branch realwork: (update) Them dong moi ne
 
 
-Dong nua ne
+Dong nua ne (Branch: Master)
 
 ### Copyright
 
