@@ -38,5 +38,4 @@ Master: Text rebase. Add text them sau cung
 Git stash demo
 
 
-Please leave a review if you like this course. (git stash pop)
-Update emergency for stashing after stashing
+Update text after using stashing -u
