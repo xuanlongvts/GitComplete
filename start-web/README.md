@@ -36,3 +36,6 @@ Text for rebase
 Master: Text rebase. Add text them sau cung
 
 Git stash demo
+
+
+Update emergency for stashing after stashing
