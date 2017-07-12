@@ -3,3 +3,5 @@ Description for site
 Them tiep
 
 Auto merge test
+
+Adding change before rebaseing conflicts
