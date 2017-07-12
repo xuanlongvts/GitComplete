@@ -2,7 +2,7 @@
 
 This is description for Starter Web Project
 
-Adding a line for rebase example
+Adding a line for rebase example, (Branch myFeature) text after rebase
 
 ## Introduction
 
