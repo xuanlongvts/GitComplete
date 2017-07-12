@@ -5,3 +5,5 @@ Them tiep after
 Auto merge test
 
 Master conflicting change brewing after
+
+Git stash demo

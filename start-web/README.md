@@ -34,3 +34,5 @@ Dong nua ne (Branch: Master)
 
 Text for rebase
 Master: Text rebase. Add text them sau cung
+
+Git stash demo
