@@ -26,3 +26,6 @@ Them dong moi ne
 
 Dong nua ne
 
+### Copyright
+
+2014 Git.Training
