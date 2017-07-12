@@ -30,7 +30,7 @@ Dong nua ne (Branch: Master)
 
 ### Copyright
 
-2014 Git.Training
+2014 Git.Training. All the reserve
 
 Text for rebase
 Master: Text rebase. Add text them sau cung
