@@ -16,5 +16,4 @@ Staging into Brand
 
 Add text for Tagging exampl
 
-
-Test reset when commit
+git update text
