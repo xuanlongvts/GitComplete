@@ -39,3 +39,5 @@ Git stash demo
 
 
 Update text after using stashing -u
+
+Cherry master update
